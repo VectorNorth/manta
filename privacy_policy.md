@@ -1,0 +1,3 @@
+### Manta Privacy Policy
+
+Vector North respects your privacy. Our app does not collect, store, or share any personal or sensitive user data. Any permissions requested are used only to support core functionality and are never used for tracking or data collection.
